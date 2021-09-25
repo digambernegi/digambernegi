@@ -1,4 +1,4 @@
-## Hello there I'm Digamber Negi!!
+## Hello there!! I'm Digamber Negi
 I'm Front-end Developer based in India. Mostly self-taught.
 
 - 👋 I’m currently working on Youtube project
