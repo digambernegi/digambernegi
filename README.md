@@ -1,7 +1,7 @@
 ## Hello there!! I'm Digamber Negi
 I'm Front-end Developer based in India. Mostly self-taught.
 
-- 👋 I’m currently working on Youtube project
+- 👋 I’m currently learning something new everyday and turning it into project.
 - 🌱 I’m currently messing with React+js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
