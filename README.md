@@ -9,7 +9,7 @@ I'm Front-end Developer based in India. Mostly self-taught.
 ### Connect with me:
 
 [<img align="left" alt="digambernegi  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="digambernegi " width="25px" src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png"/>][discord]
+[<img align="left" alt="digambernegi " width="25px" src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png"/>][discord]
 [<img align="left" alt="digambernegi  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
