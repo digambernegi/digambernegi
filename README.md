@@ -1,5 +1,5 @@
 ## Hello there!! I'm Digamber Negi
-I'm Front-end Developer based in India. Mostly self-taught.
+I'm Software Engineer(Frontend) based in India. Mostly self-taught.
 
 - 👋 I’m currently learning something new everyday and turning it into project.
 - 🌱 I’m currently messing with React+js
